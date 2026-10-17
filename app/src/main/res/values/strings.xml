@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">הלן</string>
-    <string name="tab_chat">צ'אט</string>
+    <string name="tab_chat">צ\'אט</string>
     <string name="tab_mine">שלי</string>
     <string name="tab_knowledge">ידע</string>
     <string name="tab_settings">הגדרות</string>
